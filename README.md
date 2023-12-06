@@ -18,5 +18,3 @@ pip install colorama
 Sinta-se à vontade para personalizar o código. Algumas sugestões incluem:
 - Modificar as cores no código, usando as opções do Colorama.
 - Adicionar novas funcionalidades à medida que aprende mais sobre Python.
-
-Lembre-se de explorar e experimentar! Divirta-se calculando tabuadas com estilo.
